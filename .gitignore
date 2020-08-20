@@ -1,4 +1,4 @@
-# GitIgnore
+# Git ignore
 
 # Personal files
 .markdownlint.json
@@ -29,12 +29,11 @@ Icon
 .com.apple.timemachine.donotpresent
 
 # Directories potentially created on remote AFP share
-.AppleDB
+.Aped
 .AppleDesktop
 Network Trash Folder
 Temporary Items
-.apdisk
-
+.apodids
 ### Node ###
 # Logs
 logs
